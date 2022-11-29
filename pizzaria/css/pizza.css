@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    left: 0;
+}
+.conatiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pizza{
+    text-align: center;
+}
+h2{
+    padding: 0 20px;
+}
+.pizza div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#voltar{
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 15px;
+    border: none;
+    background-color: #fff;
+}
+#voltar a{
+    text-decoration: none;
+    color: #222;
+}
+.pizza h1{
+    background-color: #DFA240;
+    width: 200px;
+    border-radius: 10px;
+    color: #fff;
+}
+.pizza img{
+    width: 250px;
+}
+
+
+.pizza .cor{
+    color: #DFA240;
+    padding: 0 20px;
+}
+
+.quandidade
+{
+    width: 100%;
+}
+.quantidade .head{
+    width: 100vw;
+}
+
+
+.contador button{
+    border: none;
+    border-radius: 50%;
+    background-color: #DFA240;
+    color: #fff;
+    width: 72px;
+    height: 72px;
+}
+.bg-footer{
+    background-color: #1D1B1E;
+}
